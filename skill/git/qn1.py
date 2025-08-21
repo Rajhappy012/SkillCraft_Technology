@@ -1,4 +1,4 @@
-skill/qn1.py
+
 symbol_list = [chr(i) for i in range(33, 127) if not chr(i).isalnum()]
 
 def compute_shifts_from_key(key):
